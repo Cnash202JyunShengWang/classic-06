@@ -11,6 +11,9 @@
 		DA58A68926FE0E0000BC7444 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA58A68826FE0E0000BC7444 /* ContentView.swift */; };
 		DA58A68B26FE0E0600BC7444 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA58A68A26FE0E0600BC7444 /* Assets.xcassets */; };
 		DA58A68E26FE0E0600BC7444 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA58A68D26FE0E0600BC7444 /* Preview Assets.xcassets */; };
+		DA58A69626FE0E3600BC7444 /* secondview.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA58A69526FE0E3600BC7444 /* secondview.swift */; };
+		DA58A69A27016BF500BC7444 /* third.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA58A69927016BF500BC7444 /* third.swift */; };
+		DA5E82302703444800704FFB /* classic07.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA5E822F2703444700704FFB /* classic07.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +23,9 @@
 		DA58A68A26FE0E0600BC7444 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DA58A68D26FE0E0600BC7444 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		DA58A68F26FE0E0600BC7444 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DA58A69526FE0E3600BC7444 /* secondview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondview.swift; sourceTree = "<group>"; };
+		DA58A69927016BF500BC7444 /* third.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = third.swift; sourceTree = "<group>"; };
+		DA5E822F2703444700704FFB /* classic07.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = classic07.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +60,9 @@
 			children = (
 				DA58A68626FE0E0000BC7444 /* classic_06App.swift */,
 				DA58A68826FE0E0000BC7444 /* ContentView.swift */,
+				DA58A69526FE0E3600BC7444 /* secondview.swift */,
+				DA58A69927016BF500BC7444 /* third.swift */,
+				DA5E822F2703444700704FFB /* classic07.swift */,
 				DA58A68A26FE0E0600BC7444 /* Assets.xcassets */,
 				DA58A68F26FE0E0600BC7444 /* Info.plist */,
 				DA58A68C26FE0E0600BC7444 /* Preview Content */,
@@ -138,8 +147,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DA5E82302703444800704FFB /* classic07.swift in Sources */,
 				DA58A68926FE0E0000BC7444 /* ContentView.swift in Sources */,
 				DA58A68726FE0E0000BC7444 /* classic_06App.swift in Sources */,
+				DA58A69626FE0E3600BC7444 /* secondview.swift in Sources */,
+				DA58A69A27016BF500BC7444 /* third.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
